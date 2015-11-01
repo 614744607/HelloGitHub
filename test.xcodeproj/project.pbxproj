@@ -13,6 +13,9 @@
 		556296E91AE34F450076C5CC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 556296E81AE34F450076C5CC /* Images.xcassets */; };
 		556296EC1AE34F450076C5CC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 556296EA1AE34F450076C5CC /* LaunchScreen.xib */; };
 		556296F81AE34F450076C5CC /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 556296F71AE34F450076C5CC /* testTests.swift */; };
+		556297021AE352830076C5CC /* ああああ.png in Resources */ = {isa = PBXBuildFile; fileRef = 556297011AE352830076C5CC /* ああああ.png */; };
+		556297041AE36F2B0076C5CC /* Unknown.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 556297031AE36F2B0076C5CC /* Unknown.jpg */; };
+		556297061AE377840076C5CC /* っっっs.png in Resources */ = {isa = PBXBuildFile; fileRef = 556297051AE377840076C5CC /* っっっs.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		556296F11AE34F450076C5CC /* testTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		556296F61AE34F450076C5CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		556296F71AE34F450076C5CC /* testTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testTests.swift; sourceTree = "<group>"; };
+		556297011AE352830076C5CC /* ああああ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ああああ.png"; path = "../../ああああ.png"; sourceTree = "<group>"; };
+		556297031AE36F2B0076C5CC /* Unknown.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Unknown.jpg; path = ../../Unknown.jpg; sourceTree = "<group>"; };
+		556297051AE377840076C5CC /* っっっs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "っっっs.png"; path = "../../っっっs.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +83,9 @@
 		556296DE1AE34F450076C5CC /* test */ = {
 			isa = PBXGroup;
 			children = (
+				556297051AE377840076C5CC /* っっっs.png */,
+				556297031AE36F2B0076C5CC /* Unknown.jpg */,
+				556297011AE352830076C5CC /* ああああ.png */,
 				556296E11AE34F450076C5CC /* AppDelegate.swift */,
 				556296E31AE34F450076C5CC /* ViewController.swift */,
 				556296E51AE34F450076C5CC /* Main.storyboard */,
@@ -193,8 +202,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				556296E71AE34F450076C5CC /* Main.storyboard in Resources */,
+				556297041AE36F2B0076C5CC /* Unknown.jpg in Resources */,
 				556296EC1AE34F450076C5CC /* LaunchScreen.xib in Resources */,
 				556296E91AE34F450076C5CC /* Images.xcassets in Resources */,
+				556297021AE352830076C5CC /* ああああ.png in Resources */,
+				556297061AE377840076C5CC /* っっっs.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
